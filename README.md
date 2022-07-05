@@ -1,2 +1,2 @@
 # scratch
-for testing git and github tools only
+for testing git, github, IDE and python environment setup
